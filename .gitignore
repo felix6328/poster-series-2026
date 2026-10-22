@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+
+# WorkBuddy 本地状态与缓存（不入库）
+.workbuddy/
+.workbuddy-*/
+
+# 临时文件
+*.tmp
+*.log
+tmp/
+temp/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
